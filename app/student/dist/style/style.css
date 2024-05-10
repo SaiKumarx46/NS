@@ -1,0 +1,17 @@
+/* #student\:\:studList--fe\:\:table\:\:stud\:\:LineItem-innerTableRow-__clone5-cell0{
+text-align:right;
+} */
+
+/* .sapMListTblCell {
+    text-align: right !important;    /*working but dont use it because the clas could be used sowewher else also
+} */
+
+/* #student\:\:studList--fe\:\:table\:\:stud\:\:LineItem-innerTableRow-__clone5-cell0 {   
+    text-align: right !important;
+} */
+
+ /*working  for single cell */
+
+ #student\:\:studList--fe\:\:table\:\:stud\:\:LineItem\:\:C\:\:sid{
+    text-align:left;
+ }
